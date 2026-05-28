@@ -1,11 +1,10 @@
 streamlit
-openai
+pandas
+plotly
 langchain
 langchain-community
-langchain-openai
+sentence-transformers
+transformers
+torch
 faiss-cpu
 pypdf
-python-dotenv
-plotly
-pandas
-tiktoken

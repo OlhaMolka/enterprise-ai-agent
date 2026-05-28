@@ -1,0 +1,19 @@
+
+Risk Management Policy
+
+Department: Risk
+
+This document defines the key principles of operational risk management within the banking group.
+
+Main risks include:
+
+* Outsourcing risk
+* Third-party vendor risk
+* Cybersecurity incidents
+* Regulatory non-compliance
+
+All critical vendors must pass annual risk assessment procedures.
+
+High-risk vendors require additional approval from Group Risk Committee.
+
+The bank monitors key risk indicators on a monthly basis.

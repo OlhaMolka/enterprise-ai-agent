@@ -1,0 +1,16 @@
+Compliance Monitoring Procedure
+
+Department: Compliance
+
+This procedure defines compliance monitoring activities for internal policies and regulatory obligations.
+
+The compliance department performs:
+
+* AML monitoring
+* Sanctions screening
+* Regulatory reporting reviews
+* Employee compliance training
+
+Critical findings must be escalated within 24 hours.
+
+Quarterly compliance reports are submitted to executive management.

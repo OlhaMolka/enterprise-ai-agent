@@ -1,0 +1,27 @@
+Fraud Prevention Policy
+
+Department: Risk
+
+This document defines fraud prevention and monitoring controls within the banking group.
+
+Key fraud risks include:
+
+* Internal employee fraud
+* Payment manipulation
+* Identity theft
+* Unauthorized account access
+* Vendor invoice fraud
+
+The organization applies continuous transaction monitoring to identify suspicious activity patterns.
+
+High-risk transactions must be escalated to the Fraud Investigation Team within 2 hours.
+
+All fraud incidents are classified according to severity and financial impact.
+
+Employees must complete mandatory fraud awareness training annually.
+
+Critical fraud alerts are reviewed by the Operational Risk Committee on a weekly basis.
+
+The bank uses behavioral analytics and anomaly detection mechanisms to identify unusual customer activity.
+
+Third-party vendors handling payment data must comply with fraud prevention standards and pass annual security assessments.

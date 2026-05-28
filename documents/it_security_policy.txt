@@ -1,0 +1,16 @@
+IT Security Standard
+
+Department: IT
+
+This document describes cybersecurity requirements for internal systems.
+
+Security controls include:
+
+* Multi-factor authentication
+* Password rotation
+* Access logging
+* Endpoint protection
+
+Critical systems must be patched within 7 days after vulnerability disclosure.
+
+All employees must complete annual cybersecurity awareness training.
